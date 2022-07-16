@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56071457-9d56-4745-8ee1-74d5f919e2a9" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BpC01iorAspwBcypDCK5JBQLqL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\java\springboot项目\植物ai项目\垃圾回收分类项目\backend\src\main\java\cn\lxsir\uniapp\config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.lxsir.uniapp.utils" />
+      <recent name="cn.lxsir.uniapp.service" />
+      <recent name="cn.lxsir.uniapp.service.impl" />
+      <recent name="cn.lxsir.uniapp.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UniappApiApplication (1)">
+    <configuration name="EastExcelTest.easyExcelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lxsir.uniapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.lxsir.uniapp" />
+      <option name="MAIN_CLASS_NAME" value="cn.lxsir.uniapp.EastExcelTest" />
+      <option name="METHOD_NAME" value="easyExcelTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniappApiApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.lxsir.uniapp.UniappApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniappApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="uniapp-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.lxsir.uniapp.UniappApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EastExcelTest.easyExcelTest" />
+        <item itemvalue="Spring Boot.UniappApiApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="56071457-9d56-4745-8ee1-74d5f919e2a9" name="变更" comment="" />
+      <created>1657593414523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657593414523</updated>
+      <workItem from="1657593416985" duration="4714000" />
+      <workItem from="1657632158979" duration="32000" />
+      <workItem from="1657674853725" duration="3990000" />
+      <workItem from="1657682553354" duration="1511000" />
+      <workItem from="1657872311726" duration="6891000" />
+      <workItem from="1657889297146" duration="3015000" />
+      <workItem from="1657947197719" duration="1392000" />
+      <workItem from="1657952407830" duration="5342000" />
+      <workItem from="1657984574195" duration="799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
