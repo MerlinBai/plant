@@ -5,16 +5,16 @@ server:
 
 # 百度请求api 管理
 baidu:
-  appid: 26682004
-  apikey: dqmpZcUdc1GNRQXHBQEs2k6Y
-  secretkey: imvIPOiLQ6nIOiMtrXCAHUyYABdWGBau
+  appid: 
+  apikey: 
+  secretkey: 
 
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://60.205.185.10:3306/jjq_tree?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf8
     username: jjq_tree  # 配置数据库用户
-    password: XLNkDDm6z5Nf6fBd  # 配置数据库密码
+    password:  # 配置数据库密码
 #    url: jdbc:mysql://localhost:3306/garbagesort?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf8
 #    username: root  # 配置数据库用户
 #    password: root  # 配置数据库密码
